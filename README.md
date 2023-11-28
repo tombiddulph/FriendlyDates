@@ -16,7 +16,7 @@ var dateOnly = 2.December(2020);
 ```csharp
 using FriendlyDateTimes;
 
-DateTime dateTime = 2.December(2020).At(12, 30);
+DateTime dateTime = 2.December(2020);
 ```
 
 ```csharp
