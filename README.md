@@ -10,7 +10,7 @@ Reference one of the packages and use as follows. Referencing multiple packages 
 ```csharp
 using FriendlyDateonlys;
 
-var dateOnly = 2.December(2020);
+DateOnly dateOnly = 2.December(2020);
 ```
 
 ```csharp
